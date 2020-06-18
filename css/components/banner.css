@@ -1,0 +1,27 @@
+.banner {
+background-size: cover;
+background-position: center;
+height: 700px;
+display: flex;
+flex-direction: center;
+justify-content: flex-start;
+align-items: center;
+text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.banner p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 30px;
+}

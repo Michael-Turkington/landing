@@ -1,0 +1,35 @@
+.footer {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer ul {
+  color: #FFFFFF;
+  text-decoration: none;
+  list-style: none;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  list-style-type: disc;
+}
+
+i {
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+i:hover {
+  color: #ff7b3e;
+}
